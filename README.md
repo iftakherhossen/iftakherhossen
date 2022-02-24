@@ -23,7 +23,7 @@
 
 ## :man_technologist: About Me :
 
-<h4>I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.</h4>
+<h2>I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.</h2>
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -58,9 +58,11 @@
 
 ### :fire: My Stats :
 
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iftakherhossen&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iftakherhossen&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
@@ -68,4 +70,3 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
