@@ -73,4 +73,8 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Explore Express.js](https://dev.to/iftakher_hossen/explore-expreesjs-4mjo)
+- [Optimize React Application Performance](https://dev.to/iftakher_hossen/optimize-react-application-performance-467d)
+- [Explore API](https://dev.to/iftakher_hossen/learn-about-api-1cae)
+- [JavaScript Array Related Methods](https://dev.to/iftakher_hossen/javascript-array-related-methods-4ajn)
 <!-- BLOG-POST-LIST:END -->
