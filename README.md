@@ -25,6 +25,8 @@
 
 ## :man_technologist: About Me : <a href="https://iftakher-hossen.vercel.app/">Portfolio</a>
 
+Reliable Intern studying Computer Science seeks an internship opportunity to expand skills and gain valuable real-world experience.
+
 <h2>I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.</h2>
 
 - :telescope: I’m working as a React Developer and contributing to frontend and backend for building web applications.
@@ -33,7 +35,7 @@
 
 - :zap: In my free time, I work on new projects and read tech articles.
 
-- :mailbox:How to reach me: <a href="mailto:iftakher.one@gmail.com">Send Mail</a> | <a href="https://drive.google.com/file/d/1XFnyqeM_9yxzaj5qjMUEmPuAIL_0gSlq/view?usp=sharing">Resume</a>
+- :mailbox: How to reach me: <a href="mailto:iftakher.one@gmail.com">Send Mail</a> | <a href="https://drive.google.com/file/d/1XFnyqeM_9yxzaj5qjMUEmPuAIL_0gSlq/view?usp=sharing">Resume</a>
 
 ---
 
