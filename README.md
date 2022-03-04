@@ -75,6 +75,7 @@ Reliable Intern studying Computer Science seeks an internship opportunity to exp
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Mongoose](https://dev.to/iftakher_hossen/introduction-to-mongoose-409g)
 - [Cope with Next.js](https://dev.to/iftakher_hossen/cope-with-nextjs-4mm8)
 - [Go next with Next.js](https://dev.to/iftakher_hossen/go-next-with-nextjs-19l5)
 - [Explore Express.js](https://dev.to/iftakher_hossen/explore-expreesjs-4mjo)
