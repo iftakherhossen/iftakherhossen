@@ -67,6 +67,8 @@ Reliable Intern studying Computer Science seeks an internship opportunity to exp
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iftakherhossen&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iftakherhossen&show_icons=true&locale=en&theme=dracula)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iftakherhossen&layout=compact&theme=dracula&border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -84,3 +86,13 @@ Reliable Intern studying Computer Science seeks an internship opportunity to exp
 - [JavaScript Array Related Methods](https://dev.to/iftakher_hossen/javascript-array-related-methods-4ajn)
 - [Media Query &lpar;CSS&rpar;](https://dev.to/iftakher_hossen/media-query-css-3akc)
 <!-- BLOG-POST-LIST:END -->
+
+<br />
+
+[![Github Trophies](https://github-profile-trophy.vercel.app/?username=iftakherhossen&theme=dracula&border=false)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br />
+
+<a href="https://www.buymeacoffee.com/iftakherhossen"> 
+  <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="190" alt="iftakherhossen" />
+</a>
