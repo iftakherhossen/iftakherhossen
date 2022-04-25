@@ -31,7 +31,7 @@ Reliable Intern studying Computer Science seeks an internship opportunity to exp
 
 - :telescope: I’m working as a React Developer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Skills.
+- :seedling: Exploring Technical Skills - Next.js, React Native & Electron.
 
 - :zap: In my free time, I work on new projects and read tech articles.
 
@@ -95,5 +95,5 @@ Reliable Intern studying Computer Science seeks an internship opportunity to exp
 <br />
 
 <a href="https://www.buymeacoffee.com/iftakherhossen"> 
-  <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="190" alt="iftakherhossen" />
+  <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="iftakherhossen" />
 </a>
