@@ -35,7 +35,7 @@ Reliable Intern studying Computer Science seeks an internship opportunity to exp
 
 - :zap: In my free time, I work on new projects and read tech articles.
 
-- :mailbox: How to reach me: <a href="mailto:iftakher.one@gmail.com">Send Mail</a> | <a href="https://drive.google.com/file/d/1ovRImUlYxBj-QsglW7Y3EJ-d2850fdqA/view?usp=sharing">Resume</a>
+- :mailbox: How to reach me: <a href="mailto:iftakherhossen@outlook.com">Send Mail</a> | <a href="https://drive.google.com/file/d/1ovRImUlYxBj-QsglW7Y3EJ-d2850fdqA/view?usp=sharing">Resume</a>
 
 ---
 
